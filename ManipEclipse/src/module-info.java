@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author hcau
+ *
+ */
+module ManipEclipse {
+}
