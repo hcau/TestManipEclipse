@@ -9,7 +9,7 @@ public class main {
 	 System.out.println("cas3");		
 	 System.out.println("cas4");
 	 System.out.println("cas5");
-	 System.out.println("cas6");		 
+	 System.out.println("cas6666");		 
 	}
 	
 }
