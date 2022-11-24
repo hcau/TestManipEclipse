@@ -12,7 +12,7 @@ public class main {
 	 System.out.println("cas6AAAAAAAAAAAA");		 
 	 System.out.println("cas6AAAAAAAAAAAA");
 	 System.out.println("cas4");	
-	 System.out.println("cas4");	 System.out.println("cas4");	 
+	 System.out.println("cas4");		 System.out.println("cas4"); System.out.println("cas4");	 
 	 System.out.println("cas4");		 
 	}
 	
