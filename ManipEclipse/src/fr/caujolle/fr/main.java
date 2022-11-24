@@ -11,7 +11,11 @@ public class main {
 	 System.out.println("cas565656565656");
 	 System.out.println("cas6AAAAAAAAAAAA");		 
 	 System.out.println("cas6AAAAAAAAAAAA");
+<<<<<<< HEAD
 	 System.out.println("cas4");	ljljljlj
+=======
+	 System.out.println("cas4");	
+>>>>>>> branch 'master' of https://github.com/hcau/TestManipEclipse.git
 	 System.out.println("cas4");		 System.out.println("cas4"); System.out.println("cas4");	 
 	 System.out.println("cas4");		 
 	}
